@@ -1,0 +1,3 @@
+Testaus tapahtunut lähinnä manuaalisesti.
+Muutoksien jälkeen muokattu osa on tarkistettu käsin käyttöliittymän kautta.
+Tietokantojen toiminta on myös tarkistettu muutoksien tapahtuessa.

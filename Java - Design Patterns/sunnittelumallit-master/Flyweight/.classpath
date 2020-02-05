@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/lines/graphics"/>
+	<classpathentry kind="src" path="src/borders"/>
+	<classpathentry kind="src" path="src/tree"/>
+	<classpathentry kind="src" path="src/lines/flyweight"/>
+	<classpathentry kind="src" path="src/strings"/>
+	<classpathentry kind="src" path="src/lines/heavyweight"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
